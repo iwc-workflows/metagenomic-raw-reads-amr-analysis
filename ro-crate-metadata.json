@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-01-23T13:01:14.192515",
+            "datePublished": "2026-02-25T18:34:46.482520",
             "hasPart": [
                 {
                     "@id": "metagenomic-raw-reads-amr-analysis.ga"
@@ -64,13 +64,13 @@
             ],
             "creator": [
                 {
-                    "@id": "#5f4619ff-ed36-4f1e-86eb-65b4c8ced484"
+                    "@id": "#7ef5a2e4-b7fb-4e31-92a5-aad85aed217a"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#7f360061-d789-4979-9076-b04138d001ee"
+                    "@id": "#7d7ec6c4-0df9-49ef-9b96-63ffa8f16c8e"
                 }
             ],
             "name": "metagenomic-raw-reads-amr-analysis/main",
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/metagenomic-raw-reads-amr-analysis",
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "@id": "#galaxy",
@@ -93,7 +93,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#5f4619ff-ed36-4f1e-86eb-65b4c8ced484",
+            "@id": "#7ef5a2e4-b7fb-4e31-92a5-aad85aed217a",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -103,7 +103,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#7f360061-d789-4979-9076-b04138d001ee",
+            "@id": "#7d7ec6c4-0df9-49ef-9b96-63ffa8f16c8e",
             "@type": "Person",
             "name": "Hugo Lefeuvre"
         },
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.35"
+            "engineVersion": ">=0.75.38"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
