@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-07-15T13:35:37.722602",
+            "datePublished": "2026-10-16T09:33:20.403665",
             "hasPart": [
                 {
                     "@id": "metagenomic-raw-reads-amr-analysis.ga"
@@ -64,13 +64,13 @@
             ],
             "creator": [
                 {
-                    "@id": "#9d58f5ab-a8dc-4781-ab7e-17d3cb7e6119"
+                    "@id": "#ac9ebb9c-ef90-4146-ae9a-73c594df1efa"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#77096aa4-6605-434b-8faf-6d9d655897f0"
+                    "@id": "#cc8a6fb7-e121-4d6a-9640-e42dc380c7ac"
                 }
             ],
             "name": "metagenomic-raw-reads-amr-analysis/main",
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/metagenomic-raw-reads-amr-analysis",
-            "version": "1.2"
+            "version": "1.2.1"
         },
         {
             "@id": "#galaxy",
@@ -93,7 +93,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#9d58f5ab-a8dc-4781-ab7e-17d3cb7e6119",
+            "@id": "#ac9ebb9c-ef90-4146-ae9a-73c594df1efa",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -103,7 +103,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#77096aa4-6605-434b-8faf-6d9d655897f0",
+            "@id": "#cc8a6fb7-e121-4d6a-9640-e42dc380c7ac",
             "@type": "Person",
             "name": "Hugo Lefeuvre"
         },
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.44"
+            "engineVersion": ">=0.75.47"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
