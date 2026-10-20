@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-16T09:33:20.403665",
+            "datePublished": "2026-10-20T16:50:11.446028",
             "hasPart": [
                 {
                     "@id": "metagenomic-raw-reads-amr-analysis.ga"
@@ -64,13 +64,13 @@
             ],
             "creator": [
                 {
-                    "@id": "#ac9ebb9c-ef90-4146-ae9a-73c594df1efa"
+                    "@id": "#195671c4-1b34-48e2-bd47-272be6e5b3f2"
                 },
                 {
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#cc8a6fb7-e121-4d6a-9640-e42dc380c7ac"
+                    "@id": "#9cef4b3f-e463-4891-b9a8-4b1988fb8c8f"
                 }
             ],
             "name": "metagenomic-raw-reads-amr-analysis/main",
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/metagenomic-raw-reads-amr-analysis",
-            "version": "1.2.1"
+            "version": "1.2.2"
         },
         {
             "@id": "#galaxy",
@@ -93,7 +93,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#ac9ebb9c-ef90-4146-ae9a-73c594df1efa",
+            "@id": "#195671c4-1b34-48e2-bd47-272be6e5b3f2",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -103,7 +103,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#cc8a6fb7-e121-4d6a-9640-e42dc380c7ac",
+            "@id": "#9cef4b3f-e463-4891-b9a8-4b1988fb8c8f",
             "@type": "Person",
             "name": "Hugo Lefeuvre"
         },
